@@ -1,0 +1,2 @@
+Soy un programador que tiene conocimientos en el lenguaje de Python,
+manejo de bases de datos relacionales sql. 
